@@ -12,7 +12,7 @@ $ mkdir crDroid ; cd crDroid
 $ repo init --depth=1 -u repo init -u git://github.com/crdroidandroid/android.git -b 11.0
 
 # Clone my local repo
-$ git clone https://gitlab.com/android_samsung_universal7870/manifest/android_manifest_samsung_on7xelte.git -b evox .repo/local_manifests
+$ git clone https://github.com/galacticwarrior448/android_manifest_samsung_on7xelte-crdroid/ .repo/local_manifests
 
 # Sync
 $ repo sync
