@@ -9,7 +9,7 @@ Manifest file for on7xelte for building crDroid 7. (forked from https://github.c
 $ mkdir crDroid ; cd crDroid
 
 # Init repo
-$ repo init --depth=1 -u repo init -u git://github.com/crdroidandroid/android.git -b 11.0
+$ repo init -u git://github.com/crdroidandroid/android.git -b 11.0
 
 # Clone my local repo
 $ git clone https://github.com/galacticwarrior448/android_manifest_samsung_on7xelte-crdroid/ .repo/local_manifests
