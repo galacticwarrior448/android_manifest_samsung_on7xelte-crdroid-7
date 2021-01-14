@@ -6,17 +6,17 @@
     -->
 
     <!-- Remote -->
-    <remote fetch="https://github.com/samsungexynos7870" name="on7xelte" />
+    <remote fetch="https://github.com/galacticwarrior448" name="on7xelte" />
 	
     <!-- Device -->
-    <project name="android_device_samsung_on7xelte" path="device/samsung/on7xelte" remote="on7xelte" revision="crdroid" />
+    <project name="android_device_samsung_on7xelte" path="device/samsung/on7xelte" remote="on7xelte" revision="crdroid-7" />
     <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="on7xelte" revision="crdroid-7" />
 
     <!-- Kernel -->
     <project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="on7xelte" revision="aosp-11" />
 
     <!-- Vendor -->
-    <project name="android_vendor_samsung_on7xelte" path="vendor/samsung/on7xelte" remote="on7xelte" revision="common" />
+    <project name="android_vendor_samsung_on7xelte" path="vendor/samsung/on7xelte" remote="on7xelte" revision="11" />
     <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/universal7870-common" remote="on7xelte" revision="11" />
 
     <!-- Hardware -->   
